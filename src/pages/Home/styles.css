@@ -1,0 +1,41 @@
+body {
+    background-color: #054A91;
+    color: #FCFAFA;
+    margin: 0;
+}
+
+
+#homepageDiv {
+    margin:  10% auto 5%;
+    text-align: center;
+    min-height: 100px;
+    background-color: #5FBFF9;
+    width: 50%;
+    border: 5px solid #3E7CB1;
+}
+
+#homepageDiv > h1{
+    font-size: 75px;
+    margin-bottom: 5px;
+}
+
+#homepageDiv > a {
+    color: #FCFAFA;
+    text-decoration: none;
+}
+
+#homepageDiv > a:hover {
+    color: #0A122A;
+}
+
+#homeIconHolder{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 55px;
+    flex-wrap: wrap;
+}
+
+
+#homeIconHolder > img {
+    width: 200px;
+}

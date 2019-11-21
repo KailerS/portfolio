@@ -1,9 +1,10 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Home from "./pages/Home";
+import Home from "./pages/Home/index";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Route exact path={"/projects"} component={Projects}/>
           <Route exact path={"/contact"} component={Contact}/>
         </Switch>
+        <Footer/>
       </>      
     </Router>
   );
