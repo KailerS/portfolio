@@ -6,7 +6,7 @@ body {
 
 
 #homepageDiv {
-    margin:  10% auto 5%;
+    margin:  5% auto 5%;
     text-align: center;
     min-height: 100px;
     background-color: #5FBFF9;
@@ -17,6 +17,7 @@ body {
 #homepageDiv > h1{
     font-size: 75px;
     margin-bottom: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #homepageDiv > a {

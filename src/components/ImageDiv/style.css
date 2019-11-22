@@ -1,0 +1,45 @@
+.click-item {
+    background-size: cover;
+    background-position: 50%;
+    height: 250px;
+    width: 250px;
+    margin: 8px 25px;
+    border: 5px solid #FCFAFA;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, .23);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, .23);
+    position: relative;
+}
+.container {
+    display: -ms-flexbox;
+    display: flex;
+    min-height: 80%;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 80%;
+    margin: 0 auto;
+    background-color:  #5FBFF9;
+    margin-bottom: 60px;
+}
+
+.linkHolder{
+    background-color: #3E7CB1;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 24px;
+}
+
+.linkHolder > a {
+    text-decoration: none;
+    color: #FCFAFA;
+}
+
+.linkHolder > a:hover {
+    color: #0A122A;
+}

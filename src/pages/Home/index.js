@@ -8,7 +8,7 @@ function Home () {
             <div id="homepageDiv">
                 <h1>Kailer Smith</h1>
                 <h2>Web Developer</h2>
-                <Link to="/about">Get to Know me!</Link>  
+                <Link to="/about">Get to Know More!</Link>  
             </div>
             <div id="homeIconHolder">
                 <img src="https://cdn.auth0.com/blog/react-js/react.png" alt="react"/>
