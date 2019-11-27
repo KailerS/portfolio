@@ -1,8 +1,9 @@
 import React from "react";
+import NavBar from "../components/NavBar";
 
 function About () {
     return (
-        <h1>This is the About page</h1>
+        <NavBar></NavBar>
     )
 }
 

@@ -10,10 +10,10 @@ footer {
 
 #footerDiv {
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-around;
 }
 
 #footerDiv > a {
-    color: white;
+    color: #FCFAFA;
     margin: 0 10px;
 }

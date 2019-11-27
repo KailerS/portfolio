@@ -49,7 +49,7 @@
     },
     {
         "id": 9,
-        "image":"./assets/images/zombies.png",
+        "image":"./assets/images/zombies.jpg",
         "title": "Educational Game",
         "link": "https://lit-crag-22298.herokuapp.com/"   
     }
