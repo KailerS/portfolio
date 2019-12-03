@@ -9,7 +9,7 @@ function Project () {
             <NavBar />
             <div className="container">
                 <div style={{width:"100%", textAlign:"center"}}>
-                    <h1>Some Examples of my Work!</h1>
+                    <h1>Some Examples of My Work!</h1>
                 </div>
                 {data.map(project => (
                     <ImageDiv 

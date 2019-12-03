@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./pages/Home/index";
-import About from "./pages/About";
+import About from "./pages/About/index";
 import Projects from "./pages/Projects";
-import Contact from "./pages/Contact";
+import Contact from "./pages/Contact/index";
 import Footer from "./components/Footer";
 
 function App() {

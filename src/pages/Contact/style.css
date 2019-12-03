@@ -1,0 +1,35 @@
+#contactContainer {
+    display: -ms-flexbox;
+    -ms-flex-wrap: wrap;
+    -ms-flex-pack: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    min-height: 80%;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 40%;
+    margin: 5% auto;
+    background-color:  #5FBFF9;
+    margin-bottom: 60px;
+    border: solid 5px #3E7CB1;
+    text-align: center;
+}
+
+#contactContainer > h1 {
+    margin: 0;
+    font-size: 45px;
+}
+
+#contactContainer > p {
+    margin: 1% 0 0;
+    font-size: 22px;
+}
+
+@media screen and (max-width: 600px) {
+    #contactContainer {
+        width: 90%;
+        margin: 5% 5%;
+    }
+}

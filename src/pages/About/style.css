@@ -1,0 +1,24 @@
+img {
+    width: 300px;
+}
+
+
+#imageHolder {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#aboutContent {
+    margin: 0 5%;
+    font-size: 20px;
+}
+
+p > a {
+    text-decoration: none;
+    color: #FCFAFA;
+}
+
+p > a:hover {
+    color: #0A122A;
+}

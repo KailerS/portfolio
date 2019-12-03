@@ -23,7 +23,7 @@
     width: 80%;
     margin: 5% auto;
     background-color:  #5FBFF9;
-    margin-bottom: 60px;
+    margin-bottom: 8%;
     border: solid 5px #3E7CB1;
 }
 
@@ -43,4 +43,8 @@
 
 .linkHolder > a:hover {
     color: #0A122A;
+}
+
+h1 {
+    margin: 0 0 5%;
 }
