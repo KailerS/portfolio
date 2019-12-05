@@ -19,12 +19,12 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#homepageDiv > a {
+h2 > a {
     color: #FCFAFA;
     text-decoration: none;
 }
 
-#homepageDiv > a:hover {
+h2 > a:hover {
     color: #0A122A;
 }
 
