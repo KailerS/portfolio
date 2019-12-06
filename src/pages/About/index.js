@@ -20,7 +20,7 @@ function About () {
                         title="Check out My Resume!" 
                     />                    
                 </div>
-                <h2>About Me!</h2>
+                <h2 id="aboutHeader">About Me!</h2>
                 <div id="aboutContent">
                     <h3>Background</h3>
                     <p>Originally from Gig Harbor, Washington I moved to Denver in March of 2019. I have lived in 5 states including Texas, Illinois, Tennessee, Washington, and now Colorado. Living in different states has exposed me to new experiences and made me grow as an individual. </p>
