@@ -11,11 +11,11 @@ function About () {
                 <div id="imageHolder">
                 <ImageDiv
                         id="photo"
-                        image="./assets/images/Me.JPG" 
+                        image="./public/assets/images/Me.JPG" 
                     />  
                     <ImageDiv
                         id="resume"
-                        image="./assets/images/resume.jpg"
+                        image="./public/assets/images/resume.jpg"
                         link="./assets/pdf/Resume.pdf"
                         title="Check out My Resume!" 
                     />                    
