@@ -12,10 +12,10 @@ function Home () {
                 <h3>Click the icons in the footer to find my github profile and my LinkedIn page!</h3>  
             </div>
             <div id="homeIconHolder">
-                <img src="https://cdn.auth0.com/blog/react-js/react.png" alt="react"/>
-                <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html"/>
-                <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="css"/>
-                <img src="https://jaystack.com/wp-content/uploads/2015/12/nodejs-logo-e1497443346889.png" alt="node"/>
+                <img src="./assets/images/react.png" alt="react"/>
+                <img src="./assets/images/html.webp" alt="html"/>
+                <img src="./assets/images/css.webp" alt="css"/>
+                <img src="./assets/images/node.png" alt="node"/>
             </div>               
         </>
     )
