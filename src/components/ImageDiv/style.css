@@ -56,7 +56,10 @@ h1 {
 
 @media screen and (min-width: 1550px) {
     .click-item {
-        height: 250px;
+        height: 350px;
         width: 28%;
+    }
+    #photo {
+        background-position-y: top;
     }
 }
