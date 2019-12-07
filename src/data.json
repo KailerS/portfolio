@@ -13,7 +13,7 @@
     },
     {
         "id": 3,
-        "image":"./assets/images/cars.JPG",
+        "image":"./assets/images/cars.jpg",
         "title": "Giphy Cars",
         "link": "https://kailers.github.io/GifTastic/"   
     },
