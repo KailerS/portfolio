@@ -13,7 +13,7 @@
     },
     {
         "id": 3,
-        "image":"./assets/images/cars.png",
+        "image":"./assets/images/cars.JPG",
         "title": "Giphy Cars",
         "link": "https://kailers.github.io/GifTastic/"   
     },
@@ -49,7 +49,7 @@
     },
     {
         "id": 9,
-        "image":"./assets/images/zombies.jpg",
+        "image":"./assets/images/zombies.png",
         "title": "Educational Game",
         "link": "https://lit-crag-22298.herokuapp.com/"   
     }
