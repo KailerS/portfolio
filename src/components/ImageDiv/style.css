@@ -52,3 +52,11 @@ h1 {
 #projectHeader {
     color: #0A122A;
 }
+
+
+@media screen and (min-width: 1550px) {
+    .click-item {
+        height: 250px;
+        width: 28%;
+    }
+}
