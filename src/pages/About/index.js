@@ -12,13 +12,7 @@ function About () {
                 <ImageDiv
                         id="photo"
                         image="./assets/images/Me.JPG" 
-                    />  
-                    <ImageDiv
-                        id="resume"
-                        image="./assets/images/resume.jpg"
-                        link="./assets/pdf/Resume.pdf"
-                        title="Check out My Resume!" 
-                    />                    
+                    />                     
                 </div>
                 <h2 id="aboutHeader">About Me!</h2>
                 <div id="aboutContent">

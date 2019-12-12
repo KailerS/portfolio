@@ -3,55 +3,73 @@
         "id": 1,
         "image":"./assets/images/trivia.png",
         "title": "Halo Trivia",
-        "link": "https://kailers.github.io/TriviaGame/"        
+        "link": "https://kailers.github.io/TriviaGame/",
+        "description": "A game of trivia based on Halo related questions",
+        "repo":"https://github.com/KailerS/TriviaGame"         
     },
     {
         "id": 2,
         "image":"./assets/images/wordGuess.png",
         "title": "Word Guess",
-        "link": "https://kailers.github.io/Word-Guess-Game/"   
+        "link": "https://kailers.github.io/Word-Guess-Game/",
+        "description":"A game where the objective is to guess the MLB players last name",
+        "repo":"https://github.com/KailerS/Word-Guess-Game"    
     },
     {
         "id": 3,
         "image":"./assets/images/cars.jpg",
         "title": "Giphy Cars",
-        "link": "https://kailers.github.io/GifTastic/"   
+        "link": "https://kailers.github.io/GifTastic/",
+        "description":"Website that uses GIPHY API to generate car brand gifs, starts and stops on click",
+        "repo":"https://github.com/KailerS/GifTastic"    
     },
     {
         "id": 4,
         "image":"./assets/images/train.png",
         "title": "Train Tracker",
-        "link": "https://kailers.github.io/trainTracker/"   
+        "link": "https://kailers.github.io/trainTracker/",
+        "description":"Using frequency and the time of the first train input by the user this app will display when the next train will come. ",
+        "repo":"https://github.com/KailerS/trainTracker"    
     },
     {
         "id": 5,
         "image":"./assets/images/speech.png",
         "title": "Summary & Text to Speech",
-        "link": "https://nickcooper.github.io/projectOne/"   
+        "link": "https://nickcooper.github.io/projectOne/",
+        "description":"Takes an article from wikipedia and summarizes it then reads it aloud",
+        "repo":"https://github.com/nickcooper/projectOne"    
     },
     {
         "id": 6,
         "image":"./assets/images/fightclub.jpg",
         "title": "Fight Club",
-        "link": "https://shrouded-peak-73900.herokuapp.com/"   
+        "link": "https://shrouded-peak-73900.herokuapp.com/",
+        "description":"A fighting game where users select a character and fights a random opponent",
+        "repo":"https://github.com/barrett4467/Project-2"    
     },
     {
         "id": 7,
         "image":"./assets/images/stranger.png",
         "title": "Stranger Clicks",
-        "link": "https://kailers.github.io/clicky-game/"   
+        "link": "https://kailers.github.io/clicky-game/",
+        "description":"A memory type game where the user clicks on a characters image to score points",
+        "repo":"https://github.com/KailerS/clicky-game"    
     },
     {
         "id": 8,
         "image":"./assets/images/premleague.jpg",
         "title": "Premier League News",
-        "link": "https://fast-wildwood-44477.herokuapp.com/"   
+        "link": "https://fast-wildwood-44477.herokuapp.com/",
+        "description":"An app that scrapes the premier league website for news articles and provides a summary and link to the full article",
+        "repo":"https://github.com/KailerS/mongoose-scrape"    
     },
     {
         "id": 9,
         "image":"./assets/images/zombies.png",
         "title": "Educational Game",
-        "link": "https://lit-crag-22298.herokuapp.com/"   
+        "link": "https://lit-crag-22298.herokuapp.com/",
+        "description":"An app that includes spelling and math to help kids learn",
+        "repo":"https://github.com/barrett4467/Zombies-Need-Brains"    
     }
 
 ]

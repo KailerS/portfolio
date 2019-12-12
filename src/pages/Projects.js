@@ -18,6 +18,8 @@ function Project () {
                         image={project.image}
                         link={project.link}
                         title={project.title}
+                        description={project.description}
+                        repo={project.repo}
                     />
                 ))}
             </div>

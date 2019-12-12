@@ -2,7 +2,7 @@
     background-size: cover;
     background-position: 50%;
     height: 250px;
-    width: 250px;
+    width: 100%;
     margin: 8px 25px;
     border: 5px solid #FCFAFA;
     border-radius: 3px;
@@ -33,7 +33,7 @@
     position: absolute;
     bottom: 0;
     width: 100%;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .linkHolder > a {
@@ -53,11 +53,29 @@ h1 {
     color: #0A122A;
 }
 
+.projectHolder {
+    width:300px;
+    display: flex;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    color: #FCFAFA;
+    margin: 0 25px;
+}
+
+.descriptionHolder {
+    width: 250px;
+    margin: 8px 25px;
+}
+
+.descriptionHolder > p {
+    margin: 0;
+}
+
 
 @media screen and (min-width: 1550px) {
-    .click-item {
+    .projectHolder {
         height: 350px;
-        width: 28%;
+        width: 30%;
     }
     #photo {
         background-position-y: top;
