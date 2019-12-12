@@ -63,8 +63,10 @@ h1 {
 }
 
 .descriptionHolder {
-    width: 250px;
+    width: 100%;
     margin: 8px 25px;
+    font-size: 18px;
+    color: #0A122A;
 }
 
 .descriptionHolder > p {

@@ -12,11 +12,14 @@ function ImageDiv (props) {
                 id={props.id}
                 style={{backgroundImage: `url(${props.image})`}}          
                 >
+                {props.title ?
                     <div className="linkHolder">
                         <a href={props.link} target="blank">{props.title} (Live)</a>
                         <br />
                         <a href={props.repo} target="blank">Repository link</a>
                     </div>
+                    :""               
+                }
                 </div>
                 <div className="descriptionHolder">
                     <p>{props.description}</p>
