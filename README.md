@@ -27,5 +27,5 @@ This should create a new branch called -gh-pages.
 It should now be live!
 
 ## Built With 
-    * React 
+* React 
 
