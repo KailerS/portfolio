@@ -53,6 +53,9 @@ h2 > a:hover {
     #homepageDiv > h1{
         font-size: 28px; 
     }
+    #homeIconHolder {
+        justify-content: center;
+    }
     /* Images are too large */
     #homeIconHolder > img {
         width: 100px;

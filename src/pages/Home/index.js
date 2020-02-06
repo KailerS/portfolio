@@ -17,8 +17,8 @@ const Home = () => {
             <div id="homeIconHolder">
                 {/* Images of languages */}
                 <img src="./assets/images/react.png" alt="react"/>
-                <img src="./assets/images/html.webp" alt="html"/>
-                <img src="./assets/images/css.webp" alt="css"/>
+                <img src="./assets/images/HTML.png" alt="html"/>
+                <img src="./assets/images/CSS.png" alt="css"/>
                 <img src="./assets/images/node.png" alt="node"/>
             </div>               
         </>
