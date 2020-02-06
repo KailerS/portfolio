@@ -59,6 +59,7 @@ h2 > a:hover {
     /* Images are too large */
     #homeIconHolder > img {
         width: 100px;
+        height: 140px;
     }
 
     
