@@ -83,3 +83,9 @@ h1 {
         background-position-y: top;
     }
 }
+
+@media screen and (max-width: 600px) {
+    .container {
+        margin-bottom: 75px;
+    }
+}
