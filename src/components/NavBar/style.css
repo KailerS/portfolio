@@ -1,6 +1,7 @@
 .navHolder {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 nav {
@@ -31,4 +32,13 @@ li > a {
 
 li > a:hover {
     color: #3E7CB1;
+}
+@media screen and (max-width: 600px) {
+    .navHolder{
+        justify-content: center;
+    }
+    ul {
+        padding-left: 0;
+   }
+    
 }
