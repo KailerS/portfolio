@@ -13,21 +13,25 @@ body {
     border: 5px solid #3E7CB1;
 }
 
+/* Makes sure just the h1s inside the homepage are affected */
 #homepageDiv > h1{
     font-size: 75px;
     margin-bottom: 5px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+/* Makes sure links are visable */
 h2 > a {
     color: #FCFAFA;
     text-decoration: none;
 }
 
+/* Added a color change so they know when they are on the link */
 h2 > a:hover {
     color: #0A122A;
 }
 
+/* flexbox holder for the images of different languages */
 #homeIconHolder{
     display: flex;
     justify-content: space-around;
@@ -35,7 +39,7 @@ h2 > a:hover {
     flex-wrap: wrap;
 }
 
-
+/* Makes sure images are the same size */
 #homeIconHolder > img {
     width: 200px;
 }
