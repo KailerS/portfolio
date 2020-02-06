@@ -43,3 +43,20 @@ h2 > a:hover {
 #homeIconHolder > img {
     width: 200px;
 }
+/* Add media query to fix look on mobile */
+@media screen and (max-width: 600px) {
+    /* Div isn't wide enough as is */
+    #homepageDiv {
+        width: 90%;
+    }
+    /* FOnt size is too big for mobile */
+    #homepageDiv > h1{
+        font-size: 28px; 
+    }
+    /* Images are too large */
+    #homeIconHolder > img {
+        width: 100px;
+    }
+
+    
+}
