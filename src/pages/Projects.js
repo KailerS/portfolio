@@ -17,7 +17,7 @@ const Project =  () => {
                 </div>
                 {/* Since the projects are in an array it can be mapped through and a div made for each one */}
                 {data.map(project => (
-                    // Creates a div for each project and passes on the following info to the ImageDic component
+                    // Creates a div for each project and passes on the following info to the ImageDiv component
                     <ImageDiv 
                         key={project.id}
                         id={project.id}
