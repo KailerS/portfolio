@@ -1,13 +1,19 @@
 import React from "react";
+// Imports in the NavBar for use
 import NavBar from "../../components/NavBar";
+// Imports in the ImageDiv for use with my picture
 import ImageDiv from "../../components/ImageDiv"
+// Imports my style sheet
 import "./style.css"
 
-function About () {
+const About = () => {
     return (
         <>
+            {/* Starts with the NavBar */}
             <NavBar></NavBar>
+            {/* Container for all the contents */}
             <div className="container">
+                {/* Div for my picture to go in */}
                 <div id="imageHolder">
                 <ImageDiv
                         id="photo"

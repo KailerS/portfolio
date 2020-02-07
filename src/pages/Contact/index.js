@@ -1,10 +1,14 @@
 import React from "react";
+// Imports the NavBar component to add to the page
 import NavBar from "../../components/NavBar";
+// Imports my style sheet
 import "./style.css";
 
-function Contact () {
+// Contact page
+const Contact = () => {
     return (
         <>
+            {/* NavBar on top followed by my information */}
             <NavBar />
             <div id="contactContainer">
                 <h1>Contact Information</h1>
