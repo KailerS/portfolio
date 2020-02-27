@@ -26,6 +26,12 @@ In the console run an npm deploy.
 This should create a new branch called -gh-pages.
 It should now be live!
 
+## Screenshots
+
+This is the screen you will see when the page first loads:
+
+![Starting Screen](/public/assets/images/startingScreen.png)
+
 ## Built With 
 * React 
 
