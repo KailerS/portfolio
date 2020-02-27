@@ -46,6 +46,16 @@ Contact page:
 
 ![Contact page](/public/assets/images/contactpage.png)
 
+Mobile responsiveness:
+
+![Starting Screen Mobile](/public/assets/images/mobilehome.png)
+
+![About Me Mobile](/public/assets/images/aboutmeMobile.png)
+
+![Projects Page Mobile](/public/assets/images/projectsMobile.png)
+
+![Contact Page Mobile](/public/assets/images/contactMobile.png)
+
 ## Built With 
 * React 
 
