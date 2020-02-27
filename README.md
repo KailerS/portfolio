@@ -32,6 +32,20 @@ This is the screen you will see when the page first loads:
 
 ![Starting Screen](/public/assets/images/startingScreen.png)
 
+After clicking get to know more it takes you to the about me page:
+
+![About Me Screen](/public/assets/images/aboutpage.png)
+
+The top Navagation bar can take you to the projects page or the contact page.
+
+Project page:
+
+![Project page](/public/assets/images/projectpage.png)
+
+Contact page:
+
+![Contact page](/public/assets/images/contactpage.png)
+
 ## Built With 
 * React 
 
