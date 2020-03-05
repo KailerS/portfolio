@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This app is designed to show off my skills as a web developer as well as an introduction to who I am.
 
+Link to the deployed version: <https://kailers.github.io/portfolio/#/>
+
 ## How to Navigate
 
 When first loaded you are looking at the home page which has links in the footer to my linkedIn and to my github profile.
